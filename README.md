@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rabbi</h1>
 <h3 align="center">A student,Tech enthusiast,Gamer</h3>
-<img align="right" alt="Coding" width="400" src="[https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2FqgQUggAC3Pfv687qPC%2Fgiphy.gif&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&tbnid=ITaGGdoGDaxxhM&vet=12ahUKEwiymbWsl638AhVsLrcAHRbiB8QQMygAegUIARCOAg..i&docid=yw3WajrVF6gxGM&w=480&h=360&q=animated%20coding%20gif&client=safari&ved=2ahUKEwiymbWsl638AhVsLrcAHRbiB8QQMygAegUIARCOAg](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47err4n8tqggm8khli85tx45oa61rl5o8v6l7d1q5k&rid=200.webp&ct=g)">
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabbi1118&label=Profile%20views&color=0e75b6&style=flat" alt="rabbi1118" /> </p>
 
